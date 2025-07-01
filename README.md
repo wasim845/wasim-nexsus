@@ -77,8 +77,8 @@ contract TokenSwap {
 
 The contracts are deployed at:
 - TokenA: `0x5323b008cF0Fef6A7BfdA9b362a7B7b3740E9563`
-- TokenB: `0x67bae4B1E5528Fb6C92E7E0BC243341dc71330db`
-- TokenSwap: `0xf18529580694Ff80e836132875a52505124358EC`
+- TokenB: `0xF0A92F66F90a7F03aD1ae696eB77D3E10cdfC9B8`
+- TokenSwap: `0x94D3551627581CDB9DbB29eb513319751B9466dA`
 
 ## Installation & Setup
 
